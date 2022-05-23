@@ -61,13 +61,15 @@
 }
 
 @media(min-width:431px) and (max-width: 768px) {
-    .container {
-        padding: 0 50px
+    
+    h1 {
+        font-size: 60px;
+        line-height: 65px;
     }
 
     .banner-images { 
         display: flex;
-        flex-wrap: wrap;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
     }
@@ -159,7 +161,7 @@
 
     .banner-images { 
         display: flex;
-        flex-wrap: wrap;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
     }
@@ -245,7 +247,7 @@
     }
 
     .header-search {
-        padding-left: 100px;
+        padding-left: 10px;
     }
 
     .header-search input {
@@ -258,6 +260,20 @@
 
     .botside-menu a {
         font-size: 25px;
+    }
+
+    footer {
+        height: 200px;
+        margin-top: 0;
+    }
+
+    .footer-menu, .other-infos {
+        display: none;
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 55px;
     }
 
 }

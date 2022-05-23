@@ -26,8 +26,7 @@ header {
 }
 
 .container {
-    max-width: 95%;
-    margin: auto;
+    padding: 0 50px;
 }
 
 .bar {
@@ -296,7 +295,7 @@ h2 {
 
 .botside-menu li {
     padding: 40px 0;
-    text-align: left;
+    text-align: center;
 }
 
 .botside-menu a {
