@@ -120,8 +120,10 @@ h2 {
 }
 
 .banner-images {
+    display: flex;
     padding-top: 90px;
     padding-bottom: 90px;
+    gap: 50px;
 }
 
 .banner-images img {
@@ -129,7 +131,6 @@ h2 {
     height: 148px;
     border-radius: 50%;
     border: 5px solid #117050;
-    margin-right: 50px;
 }
 
 .area1 {
@@ -264,8 +265,7 @@ h2 {
     right: 0;
     background-color: #117050;
     height: 0;
-    max-width: 350px;
-    width: 100%;
+    width: 350px;
     overflow: hidden;
     transition: 1s;
 }
