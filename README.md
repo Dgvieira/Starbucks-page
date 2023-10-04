@@ -1,8 +1,8 @@
 # Starbucks-page
 
-# Sobre
+## Sobre
 
-Este site foi criad apenas com finalidade de estudo, trata-se de um clone de uma página do StarBucks.
+Este site foi criado apenas com finalidade de estudo, trata-se de um clone de uma página do StarBucks e foi construído a partir de um curso da [B7Web](https://b7web.com.br).
 
 ## Endereço do site
 
